@@ -4,7 +4,7 @@
 	
 </head>
 <body>
-<p>Copy and paste into python</p>
+<p>Copy and paste into python
 #-------------------------------------------------------------------------------
 # Name:        textbasedadventure
 # Purpose:      Python project
@@ -222,7 +222,7 @@ print("you wipe the sweat from your brow")
 print("you eat your rations and rest")
 print("END OF PART 1")
 sys.exit()
-
+</p>
 
 
 </body>
