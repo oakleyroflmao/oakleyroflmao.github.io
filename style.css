@@ -14,6 +14,10 @@ nav ul{
 	list-style-type: none;
 	padding:0;
 	margin:0:
+}
+
+nav il{ 
 	display: inline;
 	background-color: black;
+	font-size: 15px;
 }
